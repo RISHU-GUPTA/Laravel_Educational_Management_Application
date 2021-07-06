@@ -12,6 +12,8 @@ warring: make sure you have composer pre installed in your system before going f
 also create a database with name school_managment in your phpmyadmin.
 Laravel Based Educational Managment System With Admin Student Parents Teacher Panel
 <br>
+<i>initial composer required</i> 
+<br>
 Step 1:- Unzip The folder<br>
 Step 2:- Open Cmd command Line <br>
 Step 3:- Go to the school_management directory location.<br>
